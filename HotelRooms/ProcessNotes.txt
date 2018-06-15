@@ -1,0 +1,7 @@
+Switch Platform
+Switch On Vuforia in XR Settings
+Load Target Manager
+Set config to ARMv7 only
+Turn off Android TV
+
+
